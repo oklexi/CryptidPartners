@@ -4,7 +4,7 @@ return {
             pnr_crpa_happy_house={
                 name = "Happy House",
                 text = {
-                    "{X:mult,C:white}X#1#{} mult",
+                    "{X:dark_edition,C:white}^#1#{} Mult",
                 },
             },
         },
