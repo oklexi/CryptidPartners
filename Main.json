@@ -2,7 +2,7 @@
 	"id": "cryptid_partners",
 	"name": "Cryptid Partners",
 	"display_name": "Cryptid Partners",
-	"author": ["hhhhhhh"],
+	"author": ["Lexi"],
 	"description": "Cryptid Partners",
 	"prefix": "crpa",
 	"main_file": "Main.lua",
