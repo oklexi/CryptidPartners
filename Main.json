@@ -11,6 +11,7 @@
 	"badge_text_colour": "FFFFFF",
 	"version": "0.0.1",
 	"dependencies": [
-		"Cryptid (>=0.5.6dev)"
+		"Cryptid (>=0.5.6dev)",
+		"partner (>=1.0.1f)"
 	]
 }
