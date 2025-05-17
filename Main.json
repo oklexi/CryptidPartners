@@ -1,0 +1,16 @@
+{
+	"id": "cryptid_partners",
+	"name": "Cryptid Partners",
+	"display_name": "Cryptid Partners",
+	"author": ["hhhhhhh"],
+	"description": "Cryptid Partners",
+	"prefix": "crpa",
+	"main_file": "Main.lua",
+	"priority": 114114,
+	"badge_colour": "708b91",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.1",
+	"dependencies": [
+		"Cryptid (>=0.5.6dev)"
+	]
+}
