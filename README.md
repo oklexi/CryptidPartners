@@ -1,4 +1,4 @@
-# Partners Pluss
+# Partners Plus
 A Balatro Mod that adds many more Partners (cross-mod included!)
 
 ## Requires
