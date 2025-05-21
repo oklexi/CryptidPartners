@@ -1,17 +1,16 @@
 {
-	"id": "cryptid_partners",
-	"name": "Cryptid Partners",
-	"display_name": "Cryptid Partners",
+	"id": "partners_plus",
+	"name": "Partners Plus",
+	"display_name": "Partners Plus",
 	"author": ["Lexi"],
-	"description": "Cryptid Partners",
-	"prefix": "crpa",
+	"description": "Partners Plus",
+	"prefix": "prpl",
 	"main_file": "Main.lua",
 	"priority": 114114,
 	"badge_colour": "708b91",
 	"badge_text_colour": "FFFFFF",
 	"version": "0.0.1",
 	"dependencies": [
-		"Cryptid (>=0.5.6dev)",
 		"partner (>=1.0.1f)"
 	]
 }

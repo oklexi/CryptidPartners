@@ -1,5 +1,6 @@
 local files = {
-	"items/partners",
+	"items/cryptid",
+    --"items/partners",
 	--"items/cryptposting", :eyes:
     --"items/pwx"
 }
