@@ -2,7 +2,6 @@ local files = {
 	"items/cryptid",
     --"items/partners",
 	--"items/cryptposting", :eyes:
-    --"items/pwx"
 }
 for i, v in pairs(files) do
 	assert(SMODS.load_file(v..".lua"))()
