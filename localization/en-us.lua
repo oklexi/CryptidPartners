@@ -10,12 +10,20 @@ return {
                     "{X:dark_edition,C:white}^#1#{} Mult",
                 },
             },
-            -- Polterworx
-            pnr_prpl_jen={
-                name = "Jen Walter",
+            pnr_prpl_code_partner={
+                name = "Coding Buddy",
                 text = {
-                    "{s:0.8,C:inactive}Shoutout Jen!",
+                    "Shop stocks an",
+                    "extra {C:attention,T:p_cry_code_normal_1}Code Pack{}",
+                    "every {C:attention}#2#{C:inactive} [#1#]{} rounds",
                 },
+            },
+        },
+    },
+    misc = {
+        quips = {
+            pnr_prpl_code_partner_1={
+                "print({C:attention}\"Hello World\"{})"
             },
         },
     },
