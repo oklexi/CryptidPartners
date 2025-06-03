@@ -14,6 +14,7 @@ SMODS.Atlas{
 Partner_API.Partner{
     key = "happy_house",
     name = "Happy House Partner",
+    no_quips = true,
     unlocked = true,
     discovered = true,
     pos = {x = 0, y = 0},
