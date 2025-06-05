@@ -29,13 +29,10 @@ return {
     misc = {
         quips = {
             -- Base game
-                        pnr_prpl_cash_note_1={
+            pnr_prpl_cash_note_1={
                 "kaching"
             },
             pnr_prpl_cash_note_2={
-                ":money_mouth_face:"
-            },
-            pnr_prpl_cash_note_3={
                 "{C:money}money{}"
             },
 
