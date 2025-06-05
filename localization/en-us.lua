@@ -2,6 +2,12 @@ return {
     descriptions = {
         Partner={
             -- Base game
+            pnr_prpl_cash_note={
+                name = "Cash Note",
+                text = {
+                    "{C:gold}+$#1#{}",
+                },
+            },
 
             -- Cryptid
             pnr_prpl_happy_house={
@@ -22,6 +28,18 @@ return {
     },
     misc = {
         quips = {
+            -- Base game
+                        pnr_prpl_cash_note_1={
+                "kaching"
+            },
+            pnr_prpl_cash_note_2={
+                ":money_mouth_face:"
+            },
+            pnr_prpl_cash_note_3={
+                "{C:money}money{}"
+            },
+
+            -- Cryptid
             pnr_prpl_code_partner_1={
                 "print({C:attention}\"Hello World\"{})"
             },

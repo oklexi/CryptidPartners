@@ -1,6 +1,6 @@
 local files = {
+    "items/partners",
 	"items/cryptid",
-    --"items/partners",
 	--"items/cryptposting", :eyes:
 }
 for i, v in pairs(files) do
