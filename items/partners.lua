@@ -25,3 +25,27 @@ Partner_API.Partner{
         end
     end,
 }
+
+Partner_API.Partner{
+    key = "snack",
+    name = "Snack Partner",
+    individual_quips = true,
+    unlocked = true,
+    discovered = true,
+    pos = {x = 1, y = 0},
+    loc_txt = {},
+    atlas = "Partners",
+    config = { extra = { chips = 7, mult = 1 } },
+	loc_vars = function(self, info_queue, card)
+		return { vars = { card.ability.extra.chips, card.ability.extra.mult } }
+	end,
+    calculate = function(self, card, context)
+        if context.individual and context.cardarea == G.play and context.other_card then
+            return {
+                chips = card.ability.extra.chips,
+                mult = card.ability.extra.mult,
+                card = card
+            }
+        end
+    end,
+}
