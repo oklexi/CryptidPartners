@@ -8,4 +8,4 @@ A Balatro Mod that adds many more Partners (cross-mod included!)
 
 ### Most updated info in the thread
 
-Feel free to shoot me a message on Discord (@.lqxy) if you want to contribute, have questions, or really anything.
+Feel free to shoot me a message on Discord (@triple6lexi) if you want to contribute, have questions, or really anything.
