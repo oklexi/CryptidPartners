@@ -8,8 +8,8 @@ return {
                     "{C:gold}+$#1#{}",
                 },
             },
-            pnr_prpl_snack={
-                name = "Snack",
+            pnr_prpl_snacks={
+                name = "Snacks",
                 text = {
                     "Played cards give",
                     "{C:chips}+#1#{} Chips and",

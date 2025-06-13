@@ -27,8 +27,8 @@ Partner_API.Partner{
 }
 
 Partner_API.Partner{
-    key = "snack",
-    name = "Snack Partner",
+    key = "snacks",
+    name = "Snacks Partner",
     individual_quips = true,
     unlocked = true,
     discovered = true,
